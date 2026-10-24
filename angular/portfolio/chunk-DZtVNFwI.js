@@ -1,0 +1,1 @@
+import{i as mm,n as Ws,r as Xm,t as Us}from"./main-KNYBXNFY.js";var i=class t{static ɵfac=function(n){return new(n||t)};static ɵcmp=mm({type:t,selectors:[[`app-not-found`]],decls:2,vars:0,template:function(n,f){n&1&&(Us(0,`p`),Xm(1,`not-found works!`),Ws())},encapsulation:2})};export{i as NotFound};

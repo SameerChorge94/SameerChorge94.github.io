@@ -1,0 +1,1 @@
+import{i as mm,n as Ws,r as Xm,t as Us}from"./main-KNYBXNFY.js";var r=class t{static ɵfac=function(e){return new(e||t)};static ɵcmp=mm({type:t,selectors:[[`app-overview`]],decls:2,vars:0,template:function(e,v){e&1&&(Us(0,`p`),Xm(1,`overview works!`),Ws())},encapsulation:2})};export{r as Overview};

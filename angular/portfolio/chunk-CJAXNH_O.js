@@ -1,0 +1,1 @@
+import{i as mm,n as Ws,r as Xm,t as Us}from"./main-KNYBXNFY.js";var o=class e{static ɵfac=function(t){return new(t||e)};static ɵcmp=mm({type:e,selectors:[[`app-settings`]],decls:2,vars:0,template:function(t,p){t&1&&(Us(0,`p`),Xm(1,`settings works!`),Ws())},encapsulation:2})};export{o as Settings};
